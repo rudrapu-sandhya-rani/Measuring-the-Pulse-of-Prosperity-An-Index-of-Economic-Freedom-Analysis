@@ -1,6 +1,7 @@
 # Measuring-the-Pulse-of-Prosperity-An-Index-of-Economic-Freedom-Analysis
-Story Public link : 
-https://public.tableau.com/app/profile/rudrapu.sandhya.rani/viz/Story1_17513075805430/Story1
+Story Public link : https://public.tableau.com/app/profile/rudrapu.sandhya.rani/viz/Story1_17513075805430/Story1
+
+Demo Link : https://drive.google.com/file/d/1VUBhLft16YZ2kzQLsDsyNyGlKJ1aDiFe/view?usp=drive_link
 
 Dashboard Public Link : https://public.tableau.com/app/profile/rudrapu.sandhya.rani/viz/Dashboard1_17513073873170/Dashboard1
 
